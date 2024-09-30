@@ -59,9 +59,10 @@ Matplotlib: Utilizado para criar gráficos e visualizações adicionais.
 Para instalar todas as bibliotecas necessárias, execute o seguinte comando após ativar o seu ambiente virtual:
 
 ```pip install -r requirements.txt```
+
 Esse comando instalará todas as dependências listadas no arquivo requirements.txt, que contém as bibliotecas auxiliares utilizadas no projeto.
 
-#Rodando os Scripts
+# Rodando os Scripts
 Com as dependências instaladas e o ambiente virtual ativado, execute os scripts diretamente no terminal:
 
 ```python scripts/nome_do_script.py```
