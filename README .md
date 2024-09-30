@@ -30,6 +30,45 @@ Os dados utilizados neste projeto foram obtidos de conjuntos de dados públicos 
 
 O repositório inclui os conjuntos de dados já limpos, scripts de análise e visualizações.
 
+
+# Análise de Saúde Mental 
+
+Este projeto contém scripts Python desenvolvidos para a análise de dados relacionados à saúde mental, utilizando as bases de dados localizadas na pasta `/database`.
+
+## Estrutura do Projeto
+
+- **Base de Dados**: Todos os arquivos CSV e demais fontes de dados estão armazenados na pasta `/database`.
+- **Scripts**: Os scripts Python para análise estão na pasta `/scripts`.
+
+## Como Executar os Scripts
+
+Os scripts estão padronizados para ler os arquivos CSV da pasta `/database`, utilizando o caminho:
+
+```python
+file_path = 'projetoaplicadomackenzie\\database\\nome_do_arquivo.csv'
+
+
+# Bibliotecas Utilizadas
+Os scripts dependem das seguintes bibliotecas para executar a análise:
+
+Pandas: Utilizado para manipulação e análise dos dados em formato de DataFrames.
+Seaborn: Utilizado para visualizações estatísticas.
+Matplotlib: Utilizado para criar gráficos e visualizações adicionais.
+
+
+# Instalação de Dependências
+Para instalar todas as bibliotecas necessárias, execute o seguinte comando após ativar o seu ambiente virtual:
+
+pip install -r requirements.txt
+Esse comando instalará todas as dependências listadas no arquivo requirements.txt, que contém as bibliotecas auxiliares utilizadas no projeto.
+
+#Rodando os Scripts
+Com as dependências instaladas e o ambiente virtual ativado, execute os scripts diretamente no terminal:
+
+python scripts/nome_do_script.py
+Certifique-se de que o caminho dos arquivos CSV está correto no script que você deseja executar, e que o arquivo de dados correspondente está na pasta /database.
+
+
 ## Contribuições
 
 Contribuições são bem-vindas! Se você tiver ideias para expandir a análise ou melhorar os scripts, fique à vontade para enviar um pull request ou abrir uma issue.
