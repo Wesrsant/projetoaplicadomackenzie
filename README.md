@@ -48,7 +48,8 @@ file_path = 'projetoaplicadomackenzie\\database\\nome_do_arquivo.csv'
 # Bibliotecas Utilizadas
 Os scripts dependem das seguintes bibliotecas para executar a análise:
 
-```Pandas: Utilizado para manipulação e análise dos dados em formato de DataFrames.
+```
+Pandas: Utilizado para manipulação e análise dos dados em formato de DataFrames.
 Seaborn: Utilizado para visualizações estatísticas.
 Matplotlib: Utilizado para criar gráficos e visualizações adicionais.
 ```
