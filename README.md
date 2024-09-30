@@ -71,8 +71,11 @@ Certifique-se de que o caminho dos arquivos CSV está correto no script que voc�
 
 
 ## Contribuições
+Membros do grupo:
 
-Contribuições são bem-vindas! Se você tiver ideias para expandir a análise ou melhorar os scripts, fique à vontade para enviar um pull request ou abrir uma issue.
+* Wesley Rodrigo dos Santos
+* Flávio Estavam Nogueira Andrade
+* Miguel Shiraishi de Almeida
 
 ## Referências
 
