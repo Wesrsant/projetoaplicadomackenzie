@@ -79,6 +79,3 @@ Contribuições são bem-vindas! Se você tiver ideias para expandir a análise 
 - Dattani, S., & **Our World in Data** - _Análise de Saúde Mental_
 - [Estudo Original](https://ourworldindata.org/mental-health)
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
