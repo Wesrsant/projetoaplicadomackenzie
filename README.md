@@ -30,12 +30,9 @@ Os dados utilizados neste projeto foram obtidos de conjuntos de dados públicos 
 
 O repositório inclui os conjuntos de dados já limpos, scripts de análise e visualizações.
 
-
-# Análise de Saúde Mental 
-
 Este projeto contém scripts Python desenvolvidos para a análise de dados relacionados à saúde mental, utilizando as bases de dados localizadas na pasta `/database`.
 
-## Estrutura do Projeto
+## Estrutura de dados e scripts Projeto
 
 - **Base de Dados**: Todos os arquivos CSV e demais fontes de dados estão armazenados na pasta `/database`.
 - **Scripts**: Os scripts Python para análise estão na pasta `/scripts`.
