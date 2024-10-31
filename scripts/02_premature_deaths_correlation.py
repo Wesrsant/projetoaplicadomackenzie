@@ -1,3 +1,5 @@
+#Gráfico 2 -  Anos perdidos por morte prematura
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
