@@ -75,6 +75,9 @@ Membros do grupo:
 * Flávio Estavam Nogueira Andrade
 * Miguel Shiraishi de Almeida
 
+[Link da apresentação no YouTube](https://youtu.be/KeitcekOTbQ)
+[Material de Apoio PPT](https://docs.google.com/presentation/d/1TIS5EkjWHcKXGIUx0FVbXkBAq82dfXTSyH-RPSYvVjY/edit#slide=id.p)
+
 ## Referências
 
 - Dattani, S., & **Our World in Data** - _Análise de Saúde Mental_
