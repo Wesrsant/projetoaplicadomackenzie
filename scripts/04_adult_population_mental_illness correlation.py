@@ -18,5 +18,5 @@ numerical_df = df.select_dtypes(include=['number'])
 correlation_matrix = numerical_df.corr()
 
 sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm')
-plt.title('Matriz de Correlação')
+plt.title('Correlação entre os Transtornos de Saúde Mental')
 plt.show()
